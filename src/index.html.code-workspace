@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../Desktop/pierdoly"
+		},
+		{
+			"path": "../Desktop/udemy"
+		},
+		{
+			"path": "../Desktop/java script"
+		},
+		{
+			"path": "../Desktop/wizyto-wka-main"
+		},
+		{
+			"path": "../Desktop/HTML calosc"
+		},
+		{
+			"path": "../Desktop/Typescript"
+		},
+		{
+			"path": "../Desktop/portfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio"
+	}
+}
